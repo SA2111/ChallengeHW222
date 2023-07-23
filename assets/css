@@ -3,6 +3,22 @@
   height: 90vh;
   width: 90%;
   backround-color: powderblue;
-  
+}
+/* nav */
+nav{
+  allign-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 10%;
+  padding-top: 40px;
+  padding-right: 10%;
+}
+/* logo */
+.logo{
+  color: black;
+  cursor: pointer;
+  letter-spacing: 1px
+  font-size: 30px;
   
 }
+
