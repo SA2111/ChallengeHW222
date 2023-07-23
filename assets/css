@@ -41,3 +41,8 @@ h3{
 h1{
   font-size: 30px;
 }
+.aboutMe{
+  padding 90px 0px;
+  width: 100%;
+}
+
