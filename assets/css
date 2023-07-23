@@ -17,7 +17,7 @@ nav{
 .logo{
   color: black;
   cursor: pointer;
-  letter-spacing: 1px
+  letter-spacing: 1px;
   font-size: 30px;
 }
 nav ul li{
@@ -33,4 +33,11 @@ nav ul li a{
 nav ul li a:hover{
   color: red;
   transition: .3s;
+}
+h3{
+  margin: 18px 0px 18px;
+  font-size: 70px;
+}
+h1{
+  font-size: 30px;
 }
